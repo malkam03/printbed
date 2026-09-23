@@ -1,27 +1,37 @@
 # printbed
 
-3D models I have made and think are worth sharing. Mostly parts for things that are old enough that nobody sells the part anymore.
-
-Everything here is free, under [CC BY 4.0](LICENSE). Print it, sell prints of it, remix it; just keep the attribution.
+3D models I have made and think are worth sharing. Mostly small parts for things old enough that nobody sells the part anymore.
 
 ## Models
 
-| Model | What it is | Files |
-|---|---|---|
-| [Suzuki Samurai mirror spacer](models/suzuki-samurai-mirror-spacer) | Screw spacer for the rearview mirror on an 86 Suzuki Samurai | `.3mf` |
+| Model | What it is |
+|---|---|
+| [Mirror spacer](suzuki-samurai/mirror-spacer) | Spacer under the interior rearview mirror screw, [1986 Suzuki Samurai](suzuki-samurai) |
 
-## How this is organized
+## What is in a model folder
 
-Each model gets a folder with:
+Each model gets a folder with the printable file, the source CAD, photos, and a README covering print settings, material, orientation and anything I got wrong the first time. Models that belong to the same vehicle or project sit together in one folder.
 
-- the printable file (`.3mf`, and `.stl` when it helps)
-- the source CAD when I have it, so you can change dimensions instead of starting over
-- a `README.md` with print settings, material, and anything I got wrong the first time
+## Working with the files
 
-## A word about parts for vehicles
+- **`.3mf`** is the printable. It carries its own units, so it lands in your slicer at the right size. Every current slicer reads it.
+- **`.step`** is the editable solid. Open it in Fusion, SolidWorks, Onshape or anything else if you want to change a dimension.
+- **`.FCStd`** is the [FreeCAD](https://www.freecad.org) original, with the sketches and the history intact.
 
-Some of these bolt onto things that move. I print and fit them myself, and I note the material and orientation I used, but I have no way to test what comes off your printer. Check your own work before you trust it.
+No slicer profiles here. Settings that work on my printer are settings for my printer; the per-model README tells you the things that actually transfer, like material and orientation.
+
+## Using these on a vehicle
+
+Some of these bolt onto things that move. I print and fit them myself, and each README says what I used, but I have no way to test what comes off your printer. Check your own work before you trust it.
 
 ## Elsewhere
 
-Mirrored on Printables and MakerWorld. This repo is the source of truth.
+Models get mirrored to [Printables](https://www.printables.com/@malkam03_5384339/models). This repo stays the source of truth, and each model's README links its own listing.
+
+## License
+
+[CC BY-SA 4.0](LICENSE) unless a model folder says otherwise. Print it, sell prints of it, remix it; keep the attribution and keep your version open too.
+
+## About the docs
+
+I use AI to help write and edit documentation like this README; every model and every photo is mine alone.

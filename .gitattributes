@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.FCStd binary diff=zip
+*.3mf   binary diff=zip
+*.step  text
+*.stl   -text

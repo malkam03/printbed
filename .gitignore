@@ -1,4 +1,7 @@
-*.DS_Store
+.DS_Store
 Thumbs.db
+*.FCStd1
+*.FCBak
 *.gcode
 *.bgcode
+build/
