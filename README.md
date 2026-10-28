@@ -7,6 +7,7 @@
 | Model | What it is |
 |---|---|
 | [Mirror spacer](suzuki-samurai/mirror-spacer) | Spacer under the interior rearview mirror screw, [1986 Suzuki Samurai](suzuki-samurai) |
+| [Instrument cluster bolt cap](suzuki-samurai/instrument-cluster-bolt-cap) | Cap over a bolt on the instrument cluster board, [1986 Suzuki Samurai](suzuki-samurai) |
 
 ## What is in a model folder
 
