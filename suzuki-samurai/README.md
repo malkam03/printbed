@@ -11,3 +11,4 @@ Everything here is measured off my own vehicle. Samurai, SJ413 and Sierra vary b
 | Part | What it is |
 |---|---|
 | [Mirror spacer](mirror-spacer) | Spacer under the interior rearview mirror mounting screw |
+| [Instrument cluster bolt cap](instrument-cluster-bolt-cap) | Cap over a bolt on the instrument cluster board, so it cannot short against anything behind the dash |
